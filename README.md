@@ -1,5 +1,5 @@
 # Spark_payment
-Payment Gateway Integration
+Payment Gateway Integration <br>
 The sparkpayment php file is the homepage where the user can click on Donate button
 this leads to two options of payment card payment or PayPal payment.
 The card payment is performed using Stripe Payment.
